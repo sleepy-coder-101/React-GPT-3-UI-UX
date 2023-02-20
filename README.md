@@ -6,7 +6,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sleepy-coder-101/React-GPT-3-UI-UX?style=for-the-badge)
 
-!["GPT3 Banner"] (/public/readme/gpt_image.png "GPT3 Banner")
+!["GPT3 Banner"](/public/readme/gpt_image.png "GPT3 Banner")
 
 This UI/UX project outlines the features and possibilities of GPT-3
 
@@ -16,9 +16,9 @@ https://react-gpt-3-three.vercel.app/
 
 ## Product Screenshot
 
-!["GPT3 Header"] (/public/readme/hero_image.png "GPT3 Header")
+!["GPT3 Header"](/public/readme/hero_image.png "GPT3 Header")
 
-!["GPT3 Description"] (/public/readme/what_gpt3_image.png "GPT3 Description")
+!["GPT3 Description"](/public/readme/what_gpt3_image.png "GPT3 Description")
 
 ## Installation
 
