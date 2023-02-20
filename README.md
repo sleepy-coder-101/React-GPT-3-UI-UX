@@ -6,6 +6,10 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sleepy-coder-101/React-GPT-3-UI-UX?style=for-the-badge)
 
+<p align="center">
+  <img src="/public/readme/gpt_image.png">
+</p>
+
 !["GPT3 Banner"](/public/readme/gpt_image.png "GPT3 Banner")
 
 This UI/UX project outlines the features and possibilities of GPT-3
